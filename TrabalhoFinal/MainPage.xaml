@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TrabalhoFinal.MainPage">
+
+    <VerticalStackLayout Padding="10">
+        <Entry x:Name="NomeLivro" Placeholder="Nome do Livro" />
+        <Entry x:Name="NomeAutor" Placeholder="Nome do Autor" />
+        <Entry x:Name="EmailAutor" Placeholder="Email do Autor" Keyboard="Email" />
+        <Entry x:Name="ISBN" Placeholder="ISBN" />
+        <Button Text="Adicionar Livro" Clicked="AdicionarLivro_Clicked" />
+        <Button Text="Listar Livros" Clicked="ListarLivros_Clicked" />
+        <CollectionView x:Name="ListaLivros">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        <Label Text="{Binding NomeLivro}" FontSize="20" />
+                        <Label Text="{Binding NomeAutor}" FontSize="15" />
+                        <Label Text="{Binding EmailAutor}" FontSize="12" />
+                        <Label Text="{Binding ISBN}" FontSize="12" />
+                        <Button Text="Excluir" Clicked="ExcluirLivro_Clicked" />
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button Text="Obter Localização" Clicked="ObterLocalizacao_Clicked" />
+        <Label x:Name="CoordenadasLabel" Text="Coordenadas aparecerão aqui" />
+    </VerticalStackLayout>
+
+</ContentPage>

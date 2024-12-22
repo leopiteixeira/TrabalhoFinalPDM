@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\creditospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\creditospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\creditospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\creditospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\data\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\data\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|c:\\users\\leona\\documents\\trabalhofinal\\trabalhofinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91100FC1-27CC-43DA-A665-F6E12937765E}|TrabalhoFinal\\TrabalhoFinal.csproj|solutionrelative:trabalhofinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreditosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\CreditosPage.xaml",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\CreditosPage.xaml",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\CreditosPage.xaml",
+              "RelativeToolTip": "TrabalhoFinal\\CreditosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T16:40:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\MainPage.xaml.cs",
+              "RelativeToolTip": "TrabalhoFinal\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:33:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\Data\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\Data\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\Data\\LivroRepository.cs",
+              "RelativeToolTip": "TrabalhoFinal\\Data\\LivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:18:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\MainPage.xaml",
+              "RelativeToolTip": "TrabalhoFinal\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T16:32:51.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\Models\\Livro.cs",
+              "RelativeToolTip": "TrabalhoFinal\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:15:35.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\App.xaml.cs",
+              "RelativeToolTip": "TrabalhoFinal\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:27:12.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\MauiProgram.cs",
+              "RelativeToolTip": "TrabalhoFinal\\MauiProgram.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:25:23.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\AppShell.xaml",
+              "RelativeToolTip": "TrabalhoFinal\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T16:42:15.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\AppShell.xaml.cs",
+              "RelativeToolTip": "TrabalhoFinal\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:46:57.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\CreditosPage.xaml.cs",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\CreditosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\CreditosPage.xaml.cs",
+              "RelativeToolTip": "TrabalhoFinal\\CreditosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:27:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "TrabalhoFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\leona\\Documents\\TrabalhoFinal\\TrabalhoFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "TrabalhoFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-22T17:33:55.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
